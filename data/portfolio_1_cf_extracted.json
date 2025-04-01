@@ -1,0 +1,447 @@
+[
+  {
+    "name": "AMP Robotics",
+    "url": "https://www.amprobotics.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Aira",
+    "url": "https://www.airahome.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Alga Biosciences",
+    "url": "https://www.alga.bio/",
+    "category": "Climate"
+  },
+  {
+    "name": "Ammobia",
+    "url": "https://www.ammobia.co/",
+    "category": "Climate"
+  },
+  {
+    "name": "Amogy",
+    "url": "https://amogy.co/",
+    "category": "Climate"
+  },
+  {
+    "name": "AngelList",
+    "url": "https://www.angellist.com",
+    "category": "Money"
+  },
+  {
+    "name": "Anthro Energy",
+    "url": "https://www.anthroenergy.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Artyc",
+    "url": "https://www.shipartyc.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Bandit Running",
+    "url": "https://banditrunning.com",
+    "category": "Health"
+  },
+  {
+    "name": "Beyond Meat",
+    "url": "https://www.beyondmeat.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Blue Bottle Coffee",
+    "url": "https://bluebottlecoffee.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Boston Materials",
+    "url": "https://www.bomaterials.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Brimstone",
+    "url": "https://www.brimstone.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Cafeteria",
+    "url": "https://www.teamcafeteria.com/",
+    "category": "Money"
+  },
+  {
+    "name": "Caladan Bio",
+    "url": "https://caladan.bio/",
+    "category": "Climate"
+  },
+  {
+    "name": "Channing St Copper",
+    "url": "https://www.channingcopper.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Commonwealth Fusion Systems",
+    "url": "https://cfs.energy/",
+    "category": "Climate"
+  },
+  {
+    "name": "Compound Foods",
+    "url": "https://www.compound-foods.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Daily Harvest",
+    "url": "https://www.daily-harvest.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Dandelion Energy",
+    "url": "https://dandelionenergy.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Dexmat",
+    "url": "https://dexmat.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Dioxycle",
+    "url": "https://dioxycle.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Endless West",
+    "url": "https://endlesswest.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Endolith Mining",
+    "url": "https://www.endolithmining.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Ferrum Technologies",
+    "url": "https://ferrumtech.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Focal",
+    "url": "https://www.focalheat.co/",
+    "category": "Climate"
+  },
+  {
+    "name": "Fork & Good",
+    "url": "https://forkandgood.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Found Energy",
+    "url": "https://www.found.energy/",
+    "category": "Climate"
+  },
+  {
+    "name": "GOOD Meat",
+    "url": "https://www.goodmeat.co/",
+    "category": "Food"
+  },
+  {
+    "name": "Gem Health",
+    "url": "https://dailygem.co/",
+    "category": "Health"
+  },
+  {
+    "name": "Gradient Comfort",
+    "url": "https://www.gradientcomfort.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Gumroad",
+    "url": "https://gumroad.com",
+    "category": "Money"
+  },
+  {
+    "name": "Hoxton Farms",
+    "url": "https://hoxtonfarms.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Immi",
+    "url": "https://immieats.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Impossible Foods",
+    "url": "https://impossiblefoods.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Keel Labs",
+    "url": "https://www.keellabs.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Kickstarter",
+    "url": "https://www.kickstarter.com/",
+    "category": "Money"
+  },
+  {
+    "name": "Kula Bio",
+    "url": "https://kulabio.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "LTSE",
+    "url": "https://ltse.com",
+    "category": "Money"
+  },
+  {
+    "name": "LilyAir",
+    "url": "https://twitter.com/lilyairfyi/",
+    "category": "Health"
+  },
+  {
+    "name": "Limelight Steel",
+    "url": "https://www.limelightsteel.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Lovevery",
+    "url": "https://lovevery.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Loyal",
+    "url": "https://loyalfordogs.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Lyft",
+    "url": "https://www.lyft.com/",
+    "category": "Money"
+  },
+  {
+    "name": "Magic Spoon",
+    "url": "https://magicspoon.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Mango Materials",
+    "url": "https://www.mangomaterials.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "MeliBio",
+    "url": "https://www.melibio.com/",
+    "category": "Food"
+  },
+  {
+    "name": "MoldCo",
+    "url": "https://www.moldco.com",
+    "category": "Health"
+  },
+  {
+    "name": "Mori",
+    "url": "https://www.mori.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Natural Fiber Welding",
+    "url": "https://www.nfw.earth/",
+    "category": "Climate"
+  },
+  {
+    "name": "Noon Energy",
+    "url": "https://www.noon.energy/",
+    "category": "Climate"
+  },
+  {
+    "name": "Noya",
+    "url": "https://www.noya.co/",
+    "category": "Climate"
+  },
+  {
+    "name": "OLIPOP",
+    "url": "https://drinkolipop.com/",
+    "category": "Food"
+  },
+  {
+    "name": "One Bio",
+    "url": "https://one.bio/",
+    "category": "Health"
+  },
+  {
+    "name": "Opencare",
+    "url": "https://www.opencare.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Openwater",
+    "url": "https://www.openwater.health/",
+    "category": "Health"
+  },
+  {
+    "name": "Osmoses",
+    "url": "https://osmoses.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Oula Health",
+    "url": "https://oulahealth.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Ph7",
+    "url": "https://ph7technologies.ca/",
+    "category": "Climate"
+  },
+  {
+    "name": "PhageLab",
+    "url": "https://phage-lab.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Phaidra",
+    "url": "https://www.phaidra.ai/",
+    "category": "Climate"
+  },
+  {
+    "name": "Plenna",
+    "url": "https://www.soyplenna.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Protein Evolution",
+    "url": "https://www.protein-evolution.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Quaise Energy",
+    "url": "https://www.quaise.energy/",
+    "category": "Climate"
+  },
+  {
+    "name": "Reask",
+    "url": "https://reask.earth/",
+    "category": "Climate"
+  },
+  {
+    "name": "Redwood Materials",
+    "url": "https://www.redwoodmaterials.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Rhizocore",
+    "url": "https://www.rhizocore.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Rubi Labs",
+    "url": "https://www.rubi.earth/",
+    "category": "Climate"
+  },
+  {
+    "name": "Ruuf",
+    "url": "https://ruuf.cl/",
+    "category": "Climate"
+  },
+  {
+    "name": "Seabound",
+    "url": "https://www.seabound.co/",
+    "category": "Climate"
+  },
+  {
+    "name": "Seed",
+    "url": "https://seed.com/",
+    "category": "Health"
+  },
+  {
+    "name": "Span",
+    "url": "https://www.span.io/",
+    "category": "Climate"
+  },
+  {
+    "name": "Sweetgreen",
+    "url": "https://www.sweetgreen.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Tagomi (acquired by Coinbase)",
+    "url": "https://www.coinbase.com",
+    "category": "Money"
+  },
+  {
+    "name": "Tala",
+    "url": "https://tala.co",
+    "category": "Money"
+  },
+  {
+    "name": "TaskRabbit",
+    "url": "https://www.taskrabbit.com/",
+    "category": "Money"
+  },
+  {
+    "name": "TaxBit",
+    "url": "https://www.taxbit.com",
+    "category": "Money"
+  },
+  {
+    "name": "Teamshares",
+    "url": "https://www.teamshares.com",
+    "category": "Money"
+  },
+  {
+    "name": "The Farmer's Dog",
+    "url": "https://www.thefarmersdog.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Upstart",
+    "url": "https://www.upstart.com/",
+    "category": "Money"
+  },
+  {
+    "name": "Veloz Bio",
+    "url": "https://www.velozbio.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Verse",
+    "url": "https://verse.inc/",
+    "category": "Climate"
+  },
+  {
+    "name": "Voyage Foods",
+    "url": "https://voyagefoods.com/",
+    "category": "Food"
+  },
+  {
+    "name": "WHOOP",
+    "url": "https://www.whoop.com/us/en/",
+    "category": "Health"
+  },
+  {
+    "name": "WeaveGrid",
+    "url": "https://www.weavegrid.com/",
+    "category": "Climate"
+  },
+  {
+    "name": "Zack\u2019s Mighty",
+    "url": "https://zacksmighty.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Zelp",
+    "url": "https://www.zelp.co/",
+    "category": "Food"
+  },
+  {
+    "name": "Zero Acre Farms",
+    "url": "https://www.zeroacre.com/",
+    "category": "Food"
+  },
+  {
+    "name": "Zitara",
+    "url": "https://www.zitara.com/",
+    "category": "Climate"
+  }
+]

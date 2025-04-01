@@ -1,0 +1,48 @@
+# Dependencies
+node_modules/
+venv/
+.venv/
+__pycache__/
+
+# Environment files
+.env
+.env.local
+.env*.local
+agent/.env
+!web/.env.sample
+!agent/.env.sample
+
+# Development files
+.DS_Store
+*.pem
+*.pyc
+
+# Next.js
+.next/
+out/
+build/
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript
+*.tsbuildinfo
+next-env.d.ts
+
+# Project specific
+/unused/
+/scripts/__pycache__/
+bg_data/
+web/src/assets/boxgroup_ai.png
+web/src/data/presets-bg.png
+web/src/components/lk-boxgroup.tsx
+web/src/components/header-bg.tsx
+agent/main_bg.py
+data/portfolio_1_extracted.json
+data/portfolio_2_enriched.json
+data/portfolio_3_analyzed.json
+data/portfolio_4_valuations.json
+scripts/script_2_bg_extract.py
+scripts/script_4_bg_clean.py
