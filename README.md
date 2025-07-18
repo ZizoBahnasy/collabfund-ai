@@ -4,8 +4,6 @@ CollabFund Portfolio AI is a voice agent that combines web scraping, LLM analysi
 
 This is a local development project. Follow the setup guide below to run your own instance.
 
-You can find a demo of the final product [here](https://youtu.be/yh4HXIG3CqU).
-
 ## Features
 
 - Automated portfolio company extraction and analysis
